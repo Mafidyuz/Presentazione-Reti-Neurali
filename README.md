@@ -8,7 +8,7 @@ Le slide utilizzate durante le presentazioni si possono trovare a questo link: h
 <span style="font-size: 1.5rem;">Mario Petruccelli, Federico Cappalunga - Breve introduzione alle reti neurali e alla visualizzazione dei dati. 2020.</span>
 <br>
 <div style="float: left; margin-top: 1ex;">
-<img src="http://mirrors.creativecommons.org/presskit/icons/cc.large.png" style="width: 1.5em; float: left; margin-right: 0.6ex; margin-top: 0;">
+<img src="http://mirrors.creativecommons.org/presskit/icons/cc.large.png" style="width: 0.1em; float: left; margin-right: 0.6ex; margin-top: 0;">
 <img src="http://mirrors.creativecommons.org/presskit/icons/by.large.png" style="width: 1.5em; float: left; margin-right: 0.6ex; margin-top: 0;">
 <img src="http://mirrors.creativecommons.org/presskit/icons/nc.large.png" style="width: 1.5em; float: left; margin-right: 0.6ex; margin-top: 0;">
 <img src="http://mirrors.creativecommons.org/presskit/icons/nd.large.png" style="width: 1.5em; float: left; margin-right: 0.6ex; margin-top: 0;">
