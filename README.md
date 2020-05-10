@@ -3,7 +3,7 @@
 In questa repo è presente il materiale utilizzato per la presentazione sulle reti neurali svolta  l'11/05/2020 per il corso di visualizzazione scientifica tenuto dalla professoressa Elena Casiraghi all'università degli studi di Milano. 
 
 Le slide utilizzate durante le presentazioni si possono trovare a questo link: https://docs.google.com/presentation/d/1RPyHMhjno5yYuPSxmhQNwUmd-St60Uox7Sidw5BNikU/edit?usp=sharing
-<br><br>
+<br><br><br><br>
 <hr style="width: 90%;" align="left" />
 <span style="font-size: 1.5rem;">Mario Petruccelli, Federico Cappalunga - Breve introduzione alle reti neurali e alla visualizzazione dei dati. 2020.</span>
 <br>
