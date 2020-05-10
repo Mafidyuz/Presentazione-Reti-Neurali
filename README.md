@@ -6,7 +6,8 @@ Le slide utilizzate durante le presentazioni si possono trovare a questo link: h
 <br><br>
 <hr style="width: 90%;" align="left" />
 <span style="font-size: 1.5rem;">Mario Petruccelli, Federico Cappalunga - Breve introduzione alle reti neurali e alla visualizzazione dei dati. 2020.</span>
-<br>
+<br><br><br>
+
 <div style="float: left; margin-top: 1ex;">
 <img src="http://mirrors.creativecommons.org/presskit/icons/cc.png" style="width: 0.1em; float: left; margin-right: 0.2ex; margin-top: 0;">
 <img src="http://mirrors.creativecommons.org/presskit/icons/by.png" style="width: 0.1em; float: left; margin-right: 0.2ex; margin-top: 0;">
